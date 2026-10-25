@@ -74,6 +74,6 @@ class DefaultFirebaseOptions {
     databaseURL: 'https://whatslook-b2aec-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'whatslook-b2aec.firebasestorage.app',
     iosClientId: '57465937772-abcdefghijklmnopqrstuvwxyz123456.apps.googleusercontent.com',
-    iosBundleId: 'com.retrytech.app.shortzz',
+    iosBundleId: 'com.fivebid.whatslook',
   );
 }
