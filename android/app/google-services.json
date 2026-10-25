@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "57465937772",
+    "firebase_url": "https://whatslook-b2aec-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "whatslook-b2aec",
+    "storage_bucket": "whatslook-b2aec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57465937772:android:457a8b8165a88b10d79d49",
+        "android_client_info": {
+          "package_name": "com.retrytech.app.shortzz.v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57465937772-odhjg8p33k3i87edq7jh14qle5st87h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrytech.app.shortzz.v2",
+            "certificate_hash": "569bac789241fa0ef7d8744619dcc90da2b0cd9b"
+          }
+        },
+        {
+          "client_id": "57465937772-t3vu796d9976tn4tdp1k0jv79eghji04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrytech.app.shortzz.v2",
+            "certificate_hash": "e68e7cda2e61100604af099824e2afae55b1e0eb"
+          }
+        },
+        {
+          "client_id": "57465937772-umllijoeadofm52m53bcj2lsa448i4sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrytech.app.shortzz.v2",
+            "certificate_hash": "76a3354ae61cfe25cad16adac858f4861ce9280b"
+          }
+        },
+        {
+          "client_id": "57465937772-uordso9r0k73rv4lqbo1ps5hpu75un4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK7h5J9V2c9r_WIFL1dfksUQsl3bcQGZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57465937772-uordso9r0k73rv4lqbo1ps5hpu75un4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
